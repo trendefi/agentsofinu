@@ -8,7 +8,7 @@ Telegram: https://t.me/AgentsOfInuAgentShiba
 
 Website: https://agentsinu.com
 
-Web App: app.agentsinu.com
+Web App: https://app.agentsinu.com
 
 Twitter: https://twitter.com/AgentsOfInu
 
